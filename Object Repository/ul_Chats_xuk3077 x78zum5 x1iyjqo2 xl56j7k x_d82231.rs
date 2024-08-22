@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Chats_xuk3077 x78zum5 x1iyjqo2 xl56j7k x_d82231</name>
+   <tag></tag>
+   <elementGuidId>d2f36b8a-68dc-4433-a89e-b8d697e8316d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_T3']/div/div/div/div[2]/div[4]/div/div/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.xuk3077.x78zum5.x1iyjqo2.xl56j7k.x1p8ty84.x1na7pl.x88anuq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=navigation[name=&quot;Facebook&quot;i] >> internal:role=list</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>591301cd-7005-4e13-92a6-f52aad6a45d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xuk3077 x78zum5 x1iyjqo2 xl56j7k x1p8ty84 x1na7pl x88anuq</value>
+      <webElementGuid>ba2fcab5-772f-43f5-b2bd-a1092a9f1b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_T3&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[2]/div[@class=&quot;xds687c xixxii4 x17qophe x13vifvy x1vjfegm&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x1ve1bff x78zum5 xdt5ytf x1s65kcs&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x13a6bvl&quot;]/div[@class=&quot;x78zum5 x1s65kcs xl56j7k&quot;]/ul[@class=&quot;xuk3077 x78zum5 x1iyjqo2 xl56j7k x1p8ty84 x1na7pl x88anuq&quot;]</value>
+      <webElementGuid>62c5b689-e46e-46b8-8566-e36b06ef2782</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_T3']/div/div/div/div[2]/div[4]/div/div/div/ul</value>
+      <webElementGuid>41639c6c-4821-4b57-ad4f-295126eb1c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chats'])[1]/preceding::ul[1]</value>
+      <webElementGuid>f280a418-b4eb-4b61-8aea-c62076d1b2b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbox'])[1]/preceding::ul[1]</value>
+      <webElementGuid>9703b7b8-4978-45d8-b812-30ebce85041d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>78b89536-681a-4842-9bc0-3f060af4d603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_PS']/div/div/div/div[2]/div[4]/div/div/div/ul</value>
+      <webElementGuid>0d24d5a3-a5dc-4962-9708-76be2483f080</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -25,8 +25,6 @@ WebUI.setText(findTestObject('Object Repository/input_Facebook helps you connect
 
 WebUI.setEncryptedText(findTestObject('Object Repository/input_Facebook helps you connect and share _ab63fc'), 'VwVrmKmYjzQF1DIcflujzw==')
 
-WebUI.click(findTestObject('Object Repository/div_Log inForgotten passwordCreate new account'))
-
 WebUI.sendKeys(findTestObject('Object Repository/input_Facebook helps you connect and share _ab63fc'), Keys.chord(Keys.ENTER))
 
 WebUI.closeBrowser()

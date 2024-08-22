@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginFBFailed-BlankInput</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c82d1c9-98c8-4a6c-aab1-7fcc9f8eee13</testCaseGuid>
+</TestCaseEntity>

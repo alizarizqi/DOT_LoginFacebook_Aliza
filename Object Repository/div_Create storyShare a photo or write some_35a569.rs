@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mount_0_0_T3']/div/div/div/div[3]/div/div/div/div/div/div[2]</value>
+         <value>//div[@id='mount_0_0_S1']/div/div/div/div[3]/div/div/div/div/div/div[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>83b2d238-9aed-4bd7-8323-39693da21d1a</webElementGuid>
+      <webElementGuid>c9b08510-a220-457b-bae4-e1848a401c90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>main</value>
-      <webElementGuid>43a985f7-cfc0-4e1f-bf49-cf886963b9ee</webElementGuid>
+      <webElementGuid>e8de9f6d-b98d-4022-9208-2c3c99e7a607</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,26 +45,66 @@
       <name>class</name>
       <type>Main</type>
       <value>x9f619 x1n2onr6 x1ja2u2z x78zum5 x1iyjqo2 xs83m0k xeuugli xl56j7k x1qjc9v5 xozqiw3 x1q0g3np x1iplk16 x1xfsgkm xqmdsaz x1mtsufr x1w9j1nh</value>
-      <webElementGuid>8e1c595a-7bc5-4590-a40e-413e7b3c7103</webElementGuid>
+      <webElementGuid>88e94645-3e3e-4b2d-b1ee-a939c95946fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Create storyShare a photo or write something.Remember PasswordNext time you log in on this browser, just click your profile picture instead of typing a password.OKNot NowOKNot NowCreate a postWhat's on your mind, Thegoodstore?Live videoPhoto/videoFeeling/activityNews Feed postsFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookINFO KHUSUS LOKER PASURUAN PANDAANDewi Fatimah  · rnsdSeoopt8m9u09231592a1i55cl85atach0652gi489t2g5h559utcllih  · Shared with Private groupBarang kali ada cwek yg butuh kerja aq ada loker dipandaan tpi yg bisa menggendarai motor....bkn asal inbox tanya² tpi gk serius mau kerja....ini butuh yg serius klo minat inboxAll reactions:23 2311LikeCommentSendView more answersRatih SyahfitriKerja apa2h2 hours agoLikeReplyView all 2 repliesWrite an answer…FacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebook </value>
-      <webElementGuid>0deb5b95-be37-4875-a8d7-16b186c5e465</webElementGuid>
+      <value>Create storyShare a photo or write something.Remember PasswordNext time you log in on this browser, just click your profile picture instead of typing a password.OKNot NowOKNot NowCreate a postWhat's on your mind, Thegoodstore?Live videoPhoto/videoFeeling/activityNews Feed postsFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookJUAL BELI MOTOR SECOND KOTA MALANGYuda Hartanto  · rnSopsetdo39ul42amll0lgg09868m1a9g376u5t2im14t3hg8l41mgcfflm  · Shared with Private groupDijualVario techno Th 2011Motor sangat terawat No minus… See moreIDR8,650,000  · BatuVario technoMessagetl5Y3NX.comVario technoIDR8,650,000rnSopsetdo39ul4La ll0lgg098nom1a9g376u5t2em14tahg8rMemgcfflrAll reactions:1 11LikeCommentSendFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebook </value>
+      <webElementGuid>87bfeea1-9119-47e5-809b-b459ece8dbfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mount_0_0_T3&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1t2pt76 x1n2onr6 x1ja2u2z x10cihs4&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x1qjc9v5 xozqiw3 x1q0g3np x1t2pt76 x17upfok&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x1r8uery x1iyjqo2 xs83m0k xeuugli x1qughib x1cy8zhl xozqiw3 x1q0g3np xylbxtu x1t2pt76 xornbnt&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x1iyjqo2 xs83m0k xeuugli xl56j7k x1qjc9v5 xozqiw3 x1q0g3np x1iplk16 x1xfsgkm xqmdsaz x1mtsufr x1w9j1nh&quot;]</value>
-      <webElementGuid>e058a21b-8999-44d9-9fef-8ea6310c2ae4</webElementGuid>
+      <value>id(&quot;mount_0_0_S1&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1t2pt76 x1n2onr6 x1ja2u2z x10cihs4&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x1qjc9v5 xozqiw3 x1q0g3np x1t2pt76 x17upfok&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x1r8uery x1iyjqo2 xs83m0k xeuugli x1qughib x1cy8zhl xozqiw3 x1q0g3np xylbxtu x1t2pt76 xornbnt&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x1iyjqo2 xs83m0k xeuugli xl56j7k x1qjc9v5 xozqiw3 x1q0g3np x1iplk16 x1xfsgkm xqmdsaz x1mtsufr x1w9j1nh&quot;]</value>
+      <webElementGuid>71839217-fe96-4ea1-bb07-dee1ee2bcf36</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_S1']/div/div/div/div[3]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>016af7c2-a181-4d70-932d-f6fad2a168c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[1]</value>
+      <webElementGuid>1eeda3fb-eed0-4bc0-b16e-5924a75eb1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[4]</value>
+      <webElementGuid>31c84556-f781-4d22-96ec-e88a84a9b950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>1ef0af2a-988b-4516-bd3d-6245323c2bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Create storyShare a photo or write something.Remember PasswordNext time you log in on this browser, just click your profile picture instead of typing a password.OKNot NowOKNot NowCreate a postWhat&quot; , &quot;'&quot; , &quot;s on your mind, Thegoodstore?Live videoPhoto/videoFeeling/activityNews Feed postsFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookJUAL BELI MOTOR SECOND KOTA MALANGYuda Hartanto  · rnSopsetdo39ul42amll0lgg09868m1a9g376u5t2im14t3hg8l41mgcfflm  · Shared with Private groupDijualVario techno Th 2011Motor sangat terawat No minus… See moreIDR8,650,000  · BatuVario technoMessagetl5Y3NX.comVario technoIDR8,650,000rnSopsetdo39ul4La ll0lgg098nom1a9g376u5t2em14tahg8rMemgcfflrAll reactions:1 11LikeCommentSendFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebook &quot;) or . = concat(&quot;Create storyShare a photo or write something.Remember PasswordNext time you log in on this browser, just click your profile picture instead of typing a password.OKNot NowOKNot NowCreate a postWhat&quot; , &quot;'&quot; , &quot;s on your mind, Thegoodstore?Live videoPhoto/videoFeeling/activityNews Feed postsFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookJUAL BELI MOTOR SECOND KOTA MALANGYuda Hartanto  · rnSopsetdo39ul42amll0lgg09868m1a9g376u5t2im14t3hg8l41mgcfflm  · Shared with Private groupDijualVario techno Th 2011Motor sangat terawat No minus… See moreIDR8,650,000  · BatuVario technoMessagetl5Y3NX.comVario technoIDR8,650,000rnSopsetdo39ul4La ll0lgg098nom1a9g376u5t2em14tahg8rMemgcfflrAll reactions:1 11LikeCommentSendFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebook &quot;))]</value>
+      <webElementGuid>30543258-d212-46bb-bd0a-3095087557dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -76,24 +116,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[1]</value>
-      <webElementGuid>1760b7dd-e31e-4721-b929-e59ac43a1bde</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[2]/following::div[4]</value>
       <webElementGuid>f6e420d2-8671-4e4a-b295-f38fd014090b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div/div/div/div/div/div[2]</value>
-      <webElementGuid>9120d987-0efd-4e9e-a61d-0e851f994147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
